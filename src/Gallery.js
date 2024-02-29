@@ -37,7 +37,7 @@ const Gallery = ({fetchError, images, gallery, gallerySize, setGallerySize}) => 
       {(gallerySize < 30 && !fetchError && images.length > 0) && 
         <button 
           className='main__btn'
-          onClick={() => {setGallerySize(gallerySize + 3)}}>View more images
+          onClick={() => {setGallerySize((prevGallerySize) => prevGallerySize + 3)}}>View more images
         </button>
       }
 
