@@ -1,7 +1,7 @@
 {
   "name": "view-more",
   "version": "0.1.0",
-  "homepage": "https:/Knaporka12.github.io/view-more-products/",
+  "homepage": "https://Knaporka12.github.io/view-more-products/",
   "private": true,
   "dependencies": {
     "axios": "^1.6.7",
