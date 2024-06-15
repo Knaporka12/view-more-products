@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Knaporka12.github.io/view-more-products/static/css/main.32bc734a.css",
+    "main.js": "/Knaporka12.github.io/view-more-products/static/js/main.551d0033.js",
+    "index.html": "/Knaporka12.github.io/view-more-products/index.html",
+    "main.32bc734a.css.map": "/Knaporka12.github.io/view-more-products/static/css/main.32bc734a.css.map",
+    "main.551d0033.js.map": "/Knaporka12.github.io/view-more-products/static/js/main.551d0033.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32bc734a.css",
+    "static/js/main.551d0033.js"
+  ]
+}
